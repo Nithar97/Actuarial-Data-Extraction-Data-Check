@@ -7,4 +7,5 @@ numpy
 xlsxwriter
 ydata_profiling
 streamlit_pandas_profiling
-pydantic
+pydantic==1.8.2
+pandas_profiling==3.1.0
